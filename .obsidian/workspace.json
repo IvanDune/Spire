@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правила/Бой.md",
+                "file": "Операции в Тени/ЖИЗНЬ И ДУША.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Правила/Бой.md",
+                "file": "Операции в Тени/ЖИЗНЬ И ДУША.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Правила/Бой.md",
+                "file": "Операции в Тени/ЖИЗНЬ И ДУША.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Правила/Бой.md"
+                "file": "Операции в Тени/ЖИЗНЬ И ДУША.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "90023b2430a14f1f",
   "lastOpenFiles": [
+    "Правила/Бой.md",
     "Правила/0. Правила.md",
     "Правила/1. Персонаж.md",
-    "Правила/Бой.md",
     "Правила/Связи.md",
     "Правила/Последствия/1. Мелкие последствия.md",
     "Предисловие/Мир Шпиля.md",
