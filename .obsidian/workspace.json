@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "13a14f18c0d12f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "8b64b85c7bff9f01",
             "type": "leaf",
             "state": {
@@ -162,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -305,10 +291,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "13a14f18c0d12f0d",
+  "active": "8142b9c3a4781c03",
   "lastOpenFiles": [
-    "Персонажи/Повитуха.md",
     "conflict-files-obsidian-git.md",
+    "Персонажи/Повитуха.md",
     "Районы и фракции/Оккультизм/Гильдия гробовщиков/Призрачная эпидемия.md",
     "Районы и фракции/Оккультизм/Гильдия гробовщиков/Неумирающая хирургия.md",
     "Районы и фракции/Оккультизм/Гильдия гробовщиков/Мертвецы ходят.md",
