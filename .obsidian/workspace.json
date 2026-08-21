@@ -102,21 +102,9 @@
               "icon": "lucide-book-up",
               "title": "примечания к выпуску 1.13.6"
             }
-          },
-          {
-            "id": "58853db0e56ba981",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.13.7"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -267,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58853db0e56ba981",
+  "active": "4b581d14b17028bf",
   "lastOpenFiles": [
     "Книга Правил/Правила/Последствия/1. Мелкие последствия.md",
     "Книга Правил/Правила/Последствия/2. Умеренные последствия.md",
